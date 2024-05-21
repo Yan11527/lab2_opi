@@ -19,4 +19,5 @@ public class Lab4 {
   c.p37(c);
   }
 }
-previous : 0
+previous : 2
+previous : 9
